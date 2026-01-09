@@ -7,13 +7,21 @@ This repository contains the official code for our paper: DCAW-Net: Dual-Driven 
 ## 📂 Repository Structure
 DCAW-Net/
 ├── configs/ # Training/testing hyper-parameter config files
+
 ├── data/ # Data preprocessing codes and dataloader
+
 ├── models/ # Core DCAW-Net network architecture
+
 ├── utils/ # Loss functions, metrics, visualization tools
+
 ├── checkpoints/ # Pretrained model checkpoints
+
 ├── samples/ # Test audio samples and generated results
+
 ├── train.py # Training script
+
 ├── test.py # Inference and evaluation script
+
 └── requirements.txt
 
 
