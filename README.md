@@ -1,5 +1,5 @@
 # DCAW-Net: Dual-Driven Adaptive Temporal Supervision for Audio-Driven Talking Face Generation
-Official implementation of the paper submitted to **The Visual Computer**
+Official implementation of the paper submitted to ****
 
 ## 📌 Introduction
 This repository contains the official code for our paper: DCAW-Net: Dual-Driven Adaptive Temporal Supervision for Audio-Driven Talking Face Generation. Our method addresses the temporal non-uniformity of speech rhythm and sparse high-frequency facial events, achieving stable facial animation with eye blink consistency and robust to varying speaking rates.
@@ -51,7 +51,7 @@ If you find this work helpful for your research, please cite our paper:
 @article{Yang2026DCAWNet,
   title={DCAW-Net: Dual-Driven Adaptive Temporal Supervision for Audio-Driven Talking Face Generation},
   author={Yang Mohan and Yang Haibo},
-  journal={The Visual Computer},
+  journal={},
   year={2026},
   note={Submitted}
 }
